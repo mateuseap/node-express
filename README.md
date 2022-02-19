@@ -1,8 +1,8 @@
 # node-express
 Exemplo de API em Node.js utilizando o framework Express.js
 
-#### Instale as dependências
+#### 💽 Instale as dependências
 `npm install`
 
-#### Rode o servidor
+#### ▶ Rode o servidor
 `npm start`
